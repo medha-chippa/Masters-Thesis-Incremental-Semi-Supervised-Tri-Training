@@ -13,11 +13,11 @@ A framework supported by transfer-learning to shield the model from being suscep
 
 Develop a model that doesn’t rely on domain specific labeled data to achieve personalization/domain adaptation. 
 
-#System Overview:
+# System Overview:
 
 ![image](https://github.com/medha-chippa/Masters-Thesis-Incremental-Semi-Supervised-Tri-Training/assets/55135185/db54bc0c-ba68-4200-8a90-afef34feec25)
 
-#Results:
+# Results:
 
 ![image](https://github.com/medha-chippa/Masters-Thesis-Incremental-Semi-Supervised-Tri-Training/assets/55135185/8e7220d4-a177-4c0e-ad6c-e7cb68dd1c9f)
 
