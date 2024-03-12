@@ -1,21 +1,33 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
+title: Incremental Semi-Supervised Tri-Training: A framework for model personalization
+authors:
+  - family-names: Chippa
+    given-names: Medha
+  - family-names: Banaei-Kashani
+    given-names: Farnoush
 cff-version: 1.2.0
-message: "If you use this work for your research, please cite it using the metadata from this file.
-references: 
-  - type: conference-paper
-    authors:
-      - family-names: Chippa
-        given-names: Medha
-      - family-names: Banaei-Kashani
-        given-names: Farnoush
-    title: "Incremental Semi-Supervised Tri-Training: A framework for model personalization"
-    year: 2023
-    collection-title: "2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
-    start: 4035
-    end: 4042
-    doi: 10.1109/BIBM58861.2023.10386015
-
+message: If you use this work, please cite it using these metadata.
+repository-code: ""
+preferred-citation:
+  title: "FSquaDRA: Fast Detection of Repackaged Applications"
+  type: conference-paper
+  authors:
+  - family-names: "Zhauniarovich"
+    given-names: "Yury"
+  - family-names: "Gadyatskaya"
+    given-names: "Olga"
+  - family-names: "Crispo"
+    given-names: "Bruno"
+  - family-names: "La Spina"
+    given-names: "Francesco"
+  - family-names: "Moser"
+    given-names: "Ermanno"
+  collection-title: "28th Annual IFIP WG 11.3 Working Conference on Data and Applications Security and Privacy" # booktitle
+  collection-type: "proceedings"
+  conference:
+    name: "DBSec" # series
+  doi: "10.1007/978-3-662-43936-4_9"
+  start: 131 # First page number
+  end: 146 # Last page number
+  year: 2014
 
   - 
