@@ -6,28 +6,22 @@ authors:
     given-names: Farnoush
 cff-version: 1.2.0
 message: If you use this work, please cite it using these metadata.
-repository-code: ""
+repository-code: "https://github.com/medha-chippa/Masters-Thesis-Incremental-Semi-Supervised-Tri-Training"
 preferred-citation:
-  title: "FSquaDRA: Fast Detection of Repackaged Applications"
+  title: "Incremental Semi-Supervised Tri-Training: A framework for model personalization"
   type: conference-paper
   authors:
-  - family-names: "Zhauniarovich"
-    given-names: "Yury"
-  - family-names: "Gadyatskaya"
-    given-names: "Olga"
-  - family-names: "Crispo"
-    given-names: "Bruno"
-  - family-names: "La Spina"
-    given-names: "Francesco"
-  - family-names: "Moser"
-    given-names: "Ermanno"
-  collection-title: "28th Annual IFIP WG 11.3 Working Conference on Data and Applications Security and Privacy" # booktitle
+  - family-names: "Chippa"
+    given-names: "Medha"
+  - family-names: "Banaei-Kashani"
+    given-names: "Farnoush"
+  collection-title: "2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)" # booktitle
   collection-type: "proceedings"
   conference:
-    name: "DBSec" # series
-  doi: "10.1007/978-3-662-43936-4_9"
-  start: 131 # First page number
-  end: 146 # Last page number
-  year: 2014
+    name: "BIBM" # series
+  doi: "10.1109/BIBM58861.2023.10386015"
+  start: 4035 # First page number
+  end: 4042 # Last page number
+  year: 2023
 
   - 
