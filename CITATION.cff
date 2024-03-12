@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.0.0
+message: "If you use this work for your research, please cite it using the metadata from this file.
+references: 
+  - type: conference-paper
+    authors:
+      - family-names: Chippa
+        given-names: Medha
+      - family-names: Banaei-Kashani
+        given-names: Farnoush
+    title: "Incremental Semi-Supervised Tri-Training: A framework for model personalization"
+    year: 2023
+    collection-title: "2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
+    start: 4035
+    end: 4042
+    doi: 10.1109/BIBM58861.2023.10386015
+
+
+  - 
